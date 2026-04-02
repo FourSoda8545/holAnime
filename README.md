@@ -4,8 +4,10 @@ Esta es app en version de prueba, dedicada para ver animes desde equipos con dis
 
 ## Uso
 
-1. Clona este repositorio `git clone httpls://github.com/FourSoda8545/holAnime.git`
-2. Ejecuta el script `animeApp.py`.
+1. Clona este repositorio | `git clone httpls://github.com/FourSoda8545/holAnime.git`
+
+2. Ejecuta el script | `animeApp.py`.
+
 3. Ingresa el anime que deseas ver, seguido de la temporada y/o capitulo.
 
 ## Dependencias
